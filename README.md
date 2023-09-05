@@ -1,8 +1,6 @@
 ✨✨✨✨
 
-![Metrics](https://metrics.lecoq.io/rLingMX?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
-
-![这只是一张普通的图](https://www.nobug.icu/wp-content/uploads/2022/07/github_md.gif)
+![](https://raw.githubusercontent.com/HereIsYui/HereIsYui/main/assets/github-contribution-grid-snake.svg)
 
 <!--
 **rLingMX/rLingMX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
